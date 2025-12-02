@@ -1,0 +1,7 @@
+{
+  "name": "Nexo ERP",
+  "description": "A minimalist, elegant personal ERP for managing vehicles, food stock, and documents.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
